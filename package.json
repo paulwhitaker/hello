@@ -1,4 +1,14 @@
 {
   "name": "@paulwhitaker/hello",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "This is just me learning how to publish NPM packages",
+  "license": "MIT",
+  "repository": "paulwhitaker/hello",
+  "main": "index.js",
+  "keywords": [
+    "hello",
+    "npm",
+    "package",
+    "paulwhitaker"
+  ]
 }
